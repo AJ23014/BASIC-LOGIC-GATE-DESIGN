@@ -23,4 +23,4 @@ This project implements standard digital logic gates (AND, OR, NOT, NAND, NOR, X
 
 ##  Author
 * **Name:** JHA ANAY SOHANKUMAR
-* ** Intern ID:** CTIS4668
+* **Intern ID:** CTIS4668
