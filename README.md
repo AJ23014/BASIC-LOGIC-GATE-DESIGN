@@ -20,6 +20,7 @@ This project implements standard digital logic gates using Verilog HDL. It demon
 ├── schematic_logic_gate.png
 ├── waveform_simulation.png
 
+---
 
 ## Author
 * **Name:** JHA ANAY SOHANKUMAR
