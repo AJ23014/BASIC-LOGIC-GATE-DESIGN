@@ -18,3 +18,4 @@ This project implements standard digital logic gates using Verilog HDL. It demon
 ├── logic_gate1.v
 ├── logic_testtst.v
 ├── schematic_logic_gate.png
+├── waveform_simulation.png
