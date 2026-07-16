@@ -1,4 +1,4 @@
-#Basic Logic Gate Design (Verilog HDL)
+## Basic Logic Gate Design (Verilog HDL)
 
 ## Overview
 This project implements standard digital logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) using Verilog HDL. It demonstrates fundamental combinational logic modeling, simulation verification, and synthesizable RTL design methodologies using Xilinx Vivado.
@@ -21,6 +21,6 @@ This project implements standard digital logic gates (AND, OR, NOT, NAND, NOR, X
 └── waveform_simulation.png
 
 
-##  Author
+## Author
 * **Name:** JHA ANAY SOHANKUMAR
 * **Intern ID:** CTIS4668
