@@ -23,5 +23,5 @@ This project implements standard digital logic gates using Verilog HDL. It demon
 ---
 
 ## Author
-* **Name:** JHA ANAY SOHANKUMAR
-* **Intern ID:** CTIS4668
+Name:JHA ANAY SOHANKUMAR
+Intern ID: CTIS4668
