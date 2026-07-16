@@ -1,7 +1,7 @@
 # Basic Logic Gate Design (Verilog HDL)
 
 ## Overview
-This project implements standard digital logic gates using Verilog HDL. It demonstrates fundamental combinational logic modeling, simulation verification, and synthesizable RTL design methodologies using Xilinx Vivado.
+This project implements standard digital logic gates using Verilog HDL. It demonstrates fundamental combinational logic modeling, simulation verification, and synthesizable RTL design methodologies using AMD Vivado.
 
 ---
 
@@ -19,3 +19,8 @@ This project implements standard digital logic gates using Verilog HDL. It demon
 ├── logic_testtst.v
 ├── schematic_logic_gate.png
 ├── waveform_simulation.png
+
+
+## Author
+* **Name:** JHA ANAY SOHANKUMAR
+* **Intern ID:** CTIS4668
